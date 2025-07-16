@@ -1,0 +1,5 @@
+streamlit
+python-dotenv
+groq
+langgraph
+sqlite3  # NOTE: You don't need to explicitly install this. sqlite3 is part of Python's standard library.
